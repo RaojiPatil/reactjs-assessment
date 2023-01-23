@@ -1,13 +1,11 @@
 import './App.css';
-// import Todo from './components/Todo';
-import Review from './components2/Review';
+import Review from './components/Review';
 
 
 function App() {
   return (
     <div className="App">
-  <Review />
-  {/* <AddRemoveMultipleInputFields /> */}
+      <Review />
     </div>
   );
 }
