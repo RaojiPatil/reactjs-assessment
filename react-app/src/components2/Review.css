@@ -1,0 +1,24 @@
+.main-div{
+    margin-left: 8%;
+    margin-left: 500px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 500px;
+    height: auto;
+    /* background-color: aliceblue; */
+    padding: 20px;
+
+}
+
+.center-div{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.output-div{
+    margin-left: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: auto;
+    padding: 10px;
+
+}
